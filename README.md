@@ -1,6 +1,26 @@
 # Challenge1_ONE_Data_Science_Alura
 Primeiro Desafio da Alura
 
+##Apresentação do Projeto Chanllenge - Alura Data Science
+
+Este projeto de análise de dados foi desenvolvido como base de um desafio de formação Data Science da Alura onde, iremos tem como objetivo ajudar o Senhor João a decidir qual das suas quatro lojas (Loja 1, Loja 2, Loja 3 e Loja 4) ele deve vender.
+
+Combase nas informações obtidas, foi feita uma analise dos dados de vendas usando Python e a biblioteca pandas. Também utilizei o matplotlib, seaborn e numpy para criar gráficos e comparações entre as lojas, deixando a análise mais visual e fácil de compreender.
+
+minha analise foi considerado os seguintes indicadores:
+
+✅ Faturamento total por loja
+
+✅ Categorias de produtos mais e menos vendidos
+
+✅ Média das avaliações das Lojas
+
+✅ Produtos mais e menos vendidos
+
+✅ Frete médio por loja
+
+Após obter essas informações foi possível gerar um relatório final sobre qual das lojas devem ser vendidas.]
+
 # Relatório de Vendas e Desempenho de cada Loja
 
 ---
